@@ -1,0 +1,15 @@
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\bin\Debug\net6.0\LambdaExprestionsProblem.exe
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\bin\Debug\net6.0\LambdaExprestionsProblem.deps.json
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\bin\Debug\net6.0\LambdaExprestionsProblem.runtimeconfig.json
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\bin\Debug\net6.0\LambdaExprestionsProblem.dll
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\bin\Debug\net6.0\LambdaExprestionsProblem.pdb
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\obj\Debug\net6.0\LambdaExprestionsProblem.csproj.AssemblyReference.cache
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\obj\Debug\net6.0\LambdaExprestionsProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\obj\Debug\net6.0\LambdaExprestionsProblem.AssemblyInfoInputs.cache
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\obj\Debug\net6.0\LambdaExprestionsProblem.AssemblyInfo.cs
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\obj\Debug\net6.0\LambdaExprestionsProblem.csproj.CoreCompileInputs.cache
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\obj\Debug\net6.0\LambdaExprestionsProblem.dll
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\obj\Debug\net6.0\refint\LambdaExprestionsProblem.dll
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\obj\Debug\net6.0\LambdaExprestionsProblem.pdb
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\obj\Debug\net6.0\LambdaExprestionsProblem.genruntimeconfig.cache
+C:\Moorthy\ASP.NET\LambdaExprestionsProblem\obj\Debug\net6.0\ref\LambdaExprestionsProblem.dll
